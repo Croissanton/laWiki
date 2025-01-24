@@ -1,6 +1,6 @@
 # Manual
 
-**Host de frontend por defecto: localhost:5713**
+**Host de frontend por defecto: localhost:80**
 
 ## Cómo ejecutar los microservicios de forma simultánea (docker + docker-compose)
 
